@@ -1,7 +1,8 @@
 {
-  "users": {
-    "masha": {
+  "users": [
+    {
+      id: "1",
+      name: "masha",
       "cards": [{"paymentSystem":"Visa","type":"ChessBank Classic","nfc":true,"balance":6450,"currency":"$","cardNumber":"1214161822446688","expire":"2024-11-01T04:00:00.000Z"},{"paymentSystem":"MasterCard","type":"ChessBank Classic","nfc":false,"balance":6450,"currency":"$","cardNumber":"1214161822446688","expire":"2024-11-01T04:00:00.000Z"},{"paymentSystem":"Visa","type":"ChessBank Classic","nfc":true,"balance":6450,"currency":"$","cardNumber":"1214161822446688","expire":"2024-11-01T04:00:00.000Z"},{"paymentSystem":"MasterCard","type":"ChessBank Classic","nfc":false,"balance":6450,"currency":"$","cardNumber":"1214161822446688","expire":"2024-11-01T04:00:00.000Z"},{"paymentSystem":"Visa","type":"ChessBank Classic","nfc":true,"balance":6450,"currency":"$","cardNumber":"1214161822446688","expire":"2024-11-01T04:00:00.000Z"},{"paymentSystem":"MasterCard","type":"ChessBank Classic","nfc":false,"balance":6450,"currency":"$","cardNumber":"1214161822446688","expire":"2024-11-01T04:00:00.000Z"}]
-    }
-  }
+  ]
 }
